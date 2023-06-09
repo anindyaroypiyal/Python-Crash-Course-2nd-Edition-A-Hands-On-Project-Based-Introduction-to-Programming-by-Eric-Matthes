@@ -1,0 +1,4 @@
+In Python you can use array and linked list as lists.
+In Python you can use dictionary which is a very versatile feature.
+In Python you don't need to use semi-colons at line's end.
+In Python you can organise neatly.
